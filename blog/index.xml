@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Old School Football Coach</title>
+    <link>https://OldSchoolFBCoach.github.io/blog/</link>
+    <description>Recent content in Blogs on Old School Football Coach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 12:48:11 -0500</lastBuildDate>
+    
+	<atom:link href="https://OldSchoolFBCoach.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Website Launch</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/website-launch/</link>
+      <pubDate>Sat, 01 Aug 2020 12:48:11 -0500</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/website-launch/</guid>
+      <description>This is the new website for Old School Football Coach! Old School Football Coach is an in-development American college football PC game in the sports management simulation genre. You can call your team&amp;rsquo;s plays and do your best to lead them to victory. For a more in-depth experience, the game also offers a career mode where you can recruit new players, set up depth charts, and other activities you would expect from a college football coach.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,202 @@
+
+
+html {
+  font-family: sans-serif;
+  background-color: #C7D9B0;
+  background-image: url("/img/BG.png");
+  margin: 0px;
+}
+
+body {
+  margin: 0% 7%;
+  padding: 0px 0px;
+  color: #0f2a36;
+  font-family: sans-serif
+  font-size: 16px;
+  border-color: #333333;
+  border-style: none none none none;
+}
+
+h1 {
+   #margin: 0px;
+}
+h2 {
+   margin: 0px;
+   padding: 15px 0px 5px 0px;
+}
+h3 {
+   margin: 0px;
+   padding-top: 0px;
+}
+p {
+   margin: 0px;
+}
+ul {
+   margin: 0px;
+}
+
+p + p {
+   margin-top: 16px;
+}
+
+
+header {
+  margin: 0px auto;
+  max-width: 1040px;
+  position: relative;
+  text-align: center;
+}
+
+header h1 {
+   color: #00374f;
+   font-size: 64px;
+   font-weight: 500;
+}
+
+.nav {
+   margin: 0px;
+   padding: 0px;
+   }
+
+.menu {
+   list-style-type: none;
+   margin: 0px;
+   padding: 0px;
+   text-align: center;
+   background-color: #000000;
+   }
+
+.menu li { display: inline-block; margin: 0px;}
+.menu li a {
+   display: block;
+   padding: 14px 16px;
+   margin: 0px;
+   color: white;
+   text-align: center;
+   text-decoration: none;
+   border-style: solid;
+   border-color: #000000;
+}
+.menu li a:hover {
+   background-color: #333333;
+   border-style: solid;
+   margin: 0px;
+}
+
+.menu-item-name-active {
+   border-style: solid;
+   border-color: #000000 #000000 #FEFED8 #000000;
+}
+
+.ComingSoonBG
+{
+   margin: 0px;
+   padding: 20px;
+   text-align: center;
+   border-color: #000000 #000000 #000000 #000000;
+   border-style: none solid none solid;
+   background-color: #333333CC;
+   color: #FFFFFF;
+}
+.ComingSoon {
+  color: #000000;
+  background-color: #FEFED8;
+  padding: 20px;
+  width: 400px;
+  margin: 0px auto;
+  text-align: center;
+  position: relative;
+  text-transform: uppercase;
+  border: 0px #4E8E07 solid;
+  box-shadow: 0 10px 30px -10px #000000;
+  border-radius: 15px;
+}
+
+
+.Overview {
+   margin: 0px;
+   padding: 0px 20px 20px;
+   text-align: center;
+   border-color: #000000 #000000 #DDDDDD #000000;
+   border-style: none solid dashed solid;
+   background-color: #333333CC;
+   color: #FFFFFF;
+}
+
+.Basic {
+   margin: 0px;
+   padding: 20px 20px 20px;
+   text-align: center;
+   border-color: #000000 #000000 #DDDDDD #000000;
+   border-style: none solid none solid;
+   background-color: #333333CC;
+   color: #FFFFFF;
+}
+
+.PageSelector {
+   list-style-type: none;
+   margin: 0px;
+   padding: 10px;
+   text-align: center;
+   }
+.PageSelector li { display: inline-block; margin: 0px;}
+.page-item a{
+   display: block;
+   padding: 5px 16px;
+   margin: 0px;
+   color: white;
+   text-align: center;
+   text-decoration: none;
+   border-style: solid;
+   border-color: #000000;
+   background-color: #000000;
+}
+
+.PageSelector li a:hover {
+   background-color: #333333;
+   color: #FFFFFF;
+   border-style: solid;
+   margin: 0px;
+}
+
+.page-item.active a{
+   background-color: #EEEEEE;
+   color: #000000;
+}
+
+.blog_section {
+   padding: 0px 20px 20px;
+   background-color: #333333CC;
+   margin: 0px;
+   border-color: #000000 #000000 #000000 #000000;
+   border-style: none solid solid solid;
+}
+.blog_section h2 {
+   color: #FFFFFF;
+   display: inline-block;
+}
+.blog_section a {
+   color: #FEFED8;
+}
+
+.BlogPost {
+   color: #000000;
+   border-style: solid;
+   background-color: #eeeeee;
+   margin: 0px 0px 20px;
+   padding: 10px 20px 20px;
+   text-align: left;
+   border-color: #000000 #000000 #000000 #000000;
+   border-style: solid;
+}
+.BlogPost a {
+   color: #666666;
+}
+
+
+.subtitle {
+   margin: 0px;
+   padding: 0px 0px 20px 0px;
+   color: #666666;
+   font-size: 10px;
+}
