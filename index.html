@@ -3,16 +3,18 @@
 <head>
 	<meta name="generator" content="Hugo 0.73.0" />
   <title>Old School Football Coach</title>
-  <link rel="stylesheet" href="/css/style.css" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A college football PC game">
   <meta name="robots" content="all">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+  <link rel="stylesheet" href="/css/style.css" />
 </head>
 
 <body>
-<section>
-  <div>
+  <section>
+    <div>
 
    <header class="homepage-header">
       <div id="mainpage_logo"><img src="/img/Logo.png" alt="Old School Football Coach" id="logo"></div>
@@ -42,7 +44,7 @@
 
    <div class="ComingSoonBG">
       <div class="ComingSoon">
-         Comming Soon!
+         Coming Soon!
       </div>
    </div>
    <div class="Overview">
@@ -50,9 +52,29 @@
       <h2 id="overview">Overview</h2>
 <p>Take control of a college football program and lead the team to victory! <strong>Old School Football Coach</strong> gives you the true college football coach experience. Set your strategy, pick your plays, and watch the action unfold in front of you. Get ready for full game simulations with complex AI behaviors, presented in a retro 2d style.</p>
 <p>Want to build a team from the ground up? <strong>Old School Football Coach</strong> has a career mode that allows you to grow your team year-after-year on your quest to become the next college football dynasty. Set depth charts, recruit new players, and design new plays on your road to be the #1 team in the nation!</p>
-<p>&hellip;</p>
-<p><img src="/img/HomeScreenshot2020-07-26.png" alt="Screenshot"></p>
-<p>&hellip;</p>
+
+   <div class="carousel">
+      <div class="carousel_inner"> <img src="/img/HomeScreenshot2020-07-26.png"> </div>
+      <div class="carousel_inner"> <img src="/img/Editor2020-08-15.png"> </div>
+      <div class="carousel_inner"> <img src="/img/EditTeam2020-08-15.png"> </div>
+      <div class="carousel_inner"> <img src="/img/Recruiting2020-08-15.png"> </div>
+      <div class="carousel_inner"> <img src="/img/TitleScreen2020-08-15.png"> </div>
+   </div>
+
+
+ <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+ <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+ <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+ <script type="text/javascript">
+   $(document).ready(function(){
+     $('.carousel').slick({
+      autoplay: true,
+      autoplaySpeed: 5000,
+      dots: true
+     });
+   });
+ </script>
 <h2 id="features">Features</h2>
 <ul>
 <li>Design your league with editable teams and conferences. Decide which team you want to coach.</li>
@@ -93,7 +115,7 @@ videos, and additional blog posts as development continue. Stay tuned!</p>
    </div>
 
 
-  </div>
-</section>
-</body>
+    </div>
+  </section>
+  </body>
 </html>

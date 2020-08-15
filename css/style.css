@@ -95,14 +95,14 @@ header h1 {
    text-align: center;
    border-color: #000000 #000000 #000000 #000000;
    border-style: none solid none solid;
-   background-color: #333333CC;
+   background-color: #222222CC;
    color: #FFFFFF;
 }
 .ComingSoon {
   color: #000000;
   background-color: #FEFED8;
   padding: 20px;
-  width: 400px;
+  max-width: 400px;
   margin: 0px auto;
   text-align: center;
   position: relative;
@@ -115,11 +115,11 @@ header h1 {
 
 .Overview {
    margin: 0px;
-   padding: 0px 20px 20px;
+   padding: 0px 20px 100px;
    text-align: center;
    border-color: #000000 #000000 #DDDDDD #000000;
    border-style: none solid dashed solid;
-   background-color: #333333CC;
+   background-color: #222222CC;
    color: #FFFFFF;
 }
 
@@ -129,9 +129,44 @@ header h1 {
    text-align: center;
    border-color: #000000 #000000 #DDDDDD #000000;
    border-style: none solid none solid;
-   background-color: #333333CC;
+   background-color: #222222CC;
    color: #FFFFFF;
 }
+
+.carousel {
+   color: #000000;
+   background-color: #000000;
+   padding: 5px;
+   margin: 75px auto ;
+   max-width: 970px;
+   text-align: center;
+   position: relative;
+   text-transform: uppercase;
+   border: 0px #4E8E07 solid;
+   box-shadow: 0 10px 30px -10px #000000;
+
+}
+.carousel_inner{
+   text-align: center;
+   margin: auto;
+}
+.carousel img{
+   max-width: 100%;
+   text-align: center;
+   margin: auto;
+}
+
+.slick-dots li button::before {
+   font-size: 8px;
+   color: #ffffff;
+   opacity: 0.7;
+ }
+
+ .slick-dots li.slick-active button::before {
+   color: #ffffff;
+   opacity: 1;
+ }
+
 
 .PageSelector {
    list-style-type: none;
@@ -166,7 +201,7 @@ header h1 {
 
 .blog_section {
    padding: 0px 20px 20px;
-   background-color: #333333CC;
+   background-color: #222222CC;
    margin: 0px;
    border-color: #000000 #000000 #000000 #000000;
    border-style: none solid solid solid;
