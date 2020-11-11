@@ -23,6 +23,7 @@ h1 {
 h2 {
    margin: 0px;
    padding: 15px 0px 5px 0px;
+   text-align: center;
 }
 h3 {
    margin: 0px;
@@ -91,37 +92,25 @@ header h1 {
 .ComingSoonBG
 {
    margin: 0px;
-   padding: 20px;
+   padding: 20px 20px 50px 20px;
    text-align: center;
    border-color: #000000 #000000 #000000 #000000;
    border-style: none solid none solid;
-   background-color: #222222CC;
+   background-color: #222222FF;
    color: #FFFFFF;
+   #box-shadow: 0 10px 30px -10px #000000;
 }
-.ComingSoon {
-  color: #000000;
-  background-color: #FEFED8;
-  padding: 20px;
-  max-width: 400px;
-  margin: 0px auto;
-  text-align: center;
-  position: relative;
-  text-transform: uppercase;
-  border: 0px #4E8E07 solid;
-  box-shadow: 0 10px 30px -10px #000000;
-  border-radius: 15px;
-}
-
 
 .Overview {
    margin: 0px;
-   padding: 0px 20px 100px;
-   text-align: center;
+   padding: 0px 100px 100px 100px;
+   #text-align: center;
    border-color: #000000 #000000 #DDDDDD #000000;
    border-style: none solid dashed solid;
    background-color: #222222CC;
    color: #FFFFFF;
 }
+
 
 .Basic {
    margin: 0px;
@@ -226,6 +215,16 @@ header h1 {
 }
 .BlogPost a {
    color: #666666;
+}
+.BlogPost h3 {
+   display: inline-block;
+}
+.BlogPostCategory{
+   display: inline-block;
+   color: #000000;
+   font-size: 9px;
+   background-color: #FEFED8;
+   padding: 2px 2px 2px 2px;
 }
 
 
