@@ -219,6 +219,14 @@ header h1 {
 .BlogPost h3 {
    display: inline-block;
 }
+
+.BlogPost h4 {
+   display: inline-block;
+   margin-bottom: 0px;
+   padding-top: 0px;
+   color:#81500f
+}
+
 .BlogPostCategory{
    display: inline-block;
    color: #000000;
