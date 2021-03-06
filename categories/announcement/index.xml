@@ -6,7 +6,17 @@
     <description>Recent content in Announcement on Old School Football Coach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 21:28:57 -0600</lastBuildDate><atom:link href="https://OldSchoolFBCoach.github.io/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 21:06:16 -0600</lastBuildDate><atom:link href="https://OldSchoolFBCoach.github.io/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oldschoolfbcoach Dev Build 202102 Now Available</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/oldschoolfbcoach-dev-build-202102-now-available/</link>
+      <pubDate>Fri, 05 Mar 2021 21:06:16 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/oldschoolfbcoach-dev-build-202102-now-available/</guid>
+      <description>Another new development build of Old School Football Coach is publicly available! Notable changes include:
+New Features  Conference championship games have been implemented in career mode. At the end of the regular season the top two teams in each conference will be matched up for a conference championship game. It is now possible to edit conferences in the League Management menu in addition to creating and deleting them. Penalties can now be declined.</description>
+    </item>
+    
     <item>
       <title>Old School Football Coach Dev Build 2021-01 Now Available</title>
       <link>https://OldSchoolFBCoach.github.io/blog/oldschoolfbcoach-dev-build-202101-now-available/</link>
