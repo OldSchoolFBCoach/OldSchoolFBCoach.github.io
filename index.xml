@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jul 2020 20:50:49 -0500</lastBuildDate><atom:link href="https://OldSchoolFBCoach.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Build 2021-04 and New Trailer</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-202104-now-available/</link>
+      <pubDate>Sat, 03 Apr 2021 14:55:35 -0500</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-202104-now-available/</guid>
+      <description>A new early access development build (2021-04) of Old School Football Coach is now publicly available! Notable changes include:
+Postseason Games There is now support for postseason games and they are highly customizable! You can configure the number of playoff spots available in your league and decide of if only the top-ranked teams make it in, or if conference champions have an automatic bid. You can also decide if you want to create your own bowl games and how teams get selected for them as well.</description>
+    </item>
+    
+    <item>
       <title>Old School Football Coach Dev Build 2021-02 Now Available</title>
       <link>https://OldSchoolFBCoach.github.io/blog/oldschoolfbcoach-dev-build-202102-now-available/</link>
       <pubDate>Fri, 05 Mar 2021 21:06:16 -0600</pubDate>

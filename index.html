@@ -52,26 +52,34 @@
 <p>Take control of a college football program and lead the team to victory! <strong>Old School Football Coach</strong> gives you the true college football coach experience. Set your strategy, pick your plays, and watch the action unfold in front of you. Get ready for full game simulations with complex AI behaviors, presented in a retro 2d style.</p>
 <p>Want to build a team from the ground up? <strong>Old School Football Coach</strong> has a career mode that allows you to grow your team year-after-year on your quest to become the next college football dynasty. Set depth charts, recruit new players, and design new plays on your road to be the #1 team in the nation!</p>
 
-   <div class="carousel">
-      <div class="carousel_inner"> <img src="/img/HomeScreenshot2020-07-26.png"> </div>
-      <div class="carousel_inner"> <img src="/img/Editor2020-08-15.png"> </div>
-      <div class="carousel_inner"> <img src="/img/EditTeam2020-08-15.png"> </div>
-      <div class="carousel_inner"> <img src="/img/Recruiting2020-11-05.png"> </div>
-      <div class="carousel_inner"> <img src="/img/TitleScreen2020-08-15.png"> </div>
-   </div>
+<div class="carousel">
+   <div class="carousel_inner"> <div class="youtube"><iframe src="https://www.youtube.com/embed/S6KRAFOcjxA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> </div>
+   <div class="carousel_inner"> <img src="/img/HomeScreenshot2020-07-26.png"> </div>
+   <div class="carousel_inner"> <img src="/img/Editor2020-08-15.png"> </div>
+   <div class="carousel_inner"> <img src="/img/EditTeam2020-08-15.png"> </div>
+   <div class="carousel_inner"> <img src="/img/Recruiting2020-11-05.png"> </div>
+   <div class="carousel_inner"> <img src="/img/TitleScreen2020-08-15.png"> </div>
+</div>
 
 
- <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
- <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
- <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
- <script type="text/javascript">
+<script type="text/javascript">
    $(document).ready(function(){
-     $('.carousel').slick({
-      autoplay: true,
+
+   $('.carousel').slick({
+      autoplay: false,
       autoplaySpeed: 5000,
       dots: true
-     });
+      });
+
+   $('.carousel').on('beforeChange', function(event, slick, currentSlide, nextSlide){
+      var current = $(slick.$slides[currentSlide]);
+      current.html(current.html());
+      });
+   
    });
  </script>
 <h2 id="features">Features</h2>
@@ -80,6 +88,7 @@
 <li>Each player is unique with 15+ attributes that determine how good they are! Review your players and set your depth chart.</li>
 <li>Choose if you want to control your players directly or take a more relaxed approach by only calling out the plays.</li>
 <li>Design new plays to outsmart the competition.</li>
+<li>Postseason bowls and playoffs are highly customizable! Configure the number of spots available as well as conference tie-ins.</li>
 <li>Research high school players and compete against other schools as you attempt to recruit them to your team.</li>
 <li>Browse stats and rankings from around the league.</li>
 </ul>
@@ -93,37 +102,24 @@
       
          
             <div class="BlogPost">
-               <h3>Old School Football Coach Dev Build 2021-02 Now Available</h3>
+               <h3>Build 2021-04 and New Trailer</h3>
                <div><div class="BlogPostCategory">Announcement</div></div>
-               <div class="subtitle">March 05, 2021 <a href="https://OldSchoolFBCoach.github.io/blog/oldschoolfbcoach-dev-build-202102-now-available/">(Link)</a></div>
-               <div><p>Another new development build of <strong>Old School Football Coach</strong> is publicly available! Notable changes include:</p>
-<h4 id="new-features">New Features</h4>
+               <div class="subtitle">April 03, 2021 <a href="https://OldSchoolFBCoach.github.io/blog/build-202104-now-available/">(Link)</a></div>
+               <div><p>A new early access development build (2021-04) of <strong>Old School Football Coach</strong> is now publicly available! Notable changes include:</p>
+<h4 id="postseason-games">Postseason Games</h4>
+<p>There is now support for postseason games and they are highly customizable! You can configure the number of playoff spots available in your league and decide of if only the top-ranked teams make it in, or if conference champions have an automatic bid. You can also decide if you want to create your own bowl games and how teams get selected for them as well.</p>
+<h4 id="other-improvements-and-fixes">Other Improvements and Fixes</h4>
 <ul>
-<li>Conference championship games have been implemented in career mode. At the end of the regular season the top two teams in each conference will be matched up for a conference championship game.</li>
-<li>It is now possible to edit conferences in the League Management menu in addition to creating and deleting them.</li>
-<li>Penalties can now be declined.</li>
-<li>In career mode, the home page got a little bit of a facelift and now also shows conference standings.</li>
+<li>Performance optimizations have been put in place when calculating team rankings between weeks. This reduces the time spent waiting for a week to complete and the next week to start. The performance of these calculations scale with the number of teams in the league, so it is now more feasible to have leagues with a larger number of teams in them.
+-Some minor visual enhancements have been added to the field and player animations. For example, there is now an animation for when a tackled player stands back up.</li>
+<li>Various bug fixes.</li>
 </ul>
-
-<figure>
-	<img src="/blog/oldschoolfbcoach-dev-build-202102-now-available/career-mode-home.png" alt="New look for the career mode home page" />
-</figure>
-<h4 id="other-improvemetns">Other Improvemetns</h4>
-<ul>
-<li>Major performance optimizations have been put in place when generating new teams and starting new careers. Specifically the game is now up to 7 times faster at generating players, depth charts, recruits, and putting together league schedules. The performance of these activities scales with the number of teams in the league, so it is now more feasible to have leagues with a larger number of teams in them.</li>
-<li>School generation is no longer prone to making a bunch of schools in the same state. It now spreads schools throughout the 50 states a little better.</li>
-</ul>
-<h4 id="bug-fixes">Bug Fixes</h4>
-<ul>
-<li>It is now possible to control players during kickoffs.</li>
-<li>Fixed a bug in career mode where sometimes game results weren&rsquo;t recorded properly after the first season was played.</li>
-<li>Players no longer keep their stats during a play that had a penalty accepted.</li>
-<li>Fixed an issue where accepting a penalty could move the ball to the other side of the field.</li>
-<li>Fixed a rare crash that could happen in career mode while simulating league games between weeks.</li>
-<li>When playing an exhibition game, switching leagues no longer breaks the ability to control players.</li>
-</ul>
+<h4 id="heading"></h4>
+<p>Be sure to check out the new <a href="https://youtu.be/S6KRAFOcjxA">gameplay trailer</a>, best viewed in full screen mode!</p>
 </div>
             </div>
+         
+     
          
      
          
