@@ -8,7 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jul 2020 20:50:49 -0500</lastBuildDate><atom:link href="https://OldSchoolFBCoach.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Build 2021-04 and New Trailer</title>
+      <title>Build 21-06 Available</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2106/</link>
+      <pubDate>Mon, 31 May 2021 20:03:13 -0500</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2106/</guid>
+      <description>Happy Memorial Day! A new development build (21-06) of Old School Football Coach is now publicly available, which, in addition to various bug fixes, includes 2 major features!
+Player Fatigue The football players on your team have always had a stamina attribute, but until now it didn&amp;rsquo;t have a major impact on their performance. That all changes with this update. Players will now get fatigued as they play, and as their condition worsens so will their other abilities.</description>
+    </item>
+    
+    <item>
+      <title>Build 21-05 Available</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2105/</link>
+      <pubDate>Sat, 01 May 2021 19:46:13 -0500</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2105/</guid>
+      <description>Development build (21-05) of Old School Football Coach is now publicly available! Notable changes include:
+New Features / Improvements  In career mode, recruits can now have a new interest: &amp;ldquo;Recent Success&amp;rdquo;. In other words, if recent success is important to a recruit, you can influence them more towards your team if you&amp;rsquo;ve been doing well lately. This interest is also different from the other ones because the recruit&amp;rsquo;s feelings can change on it week-to-week depending on how your team is doing.</description>
+    </item>
+    
+    <item>
+      <title>Build 21-05 Available</title>
       <link>https://OldSchoolFBCoach.github.io/blog/build-202104-now-available/</link>
       <pubDate>Sat, 03 Apr 2021 14:55:35 -0500</pubDate>
       
