@@ -8,6 +8,46 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jul 2020 20:50:49 -0500</lastBuildDate><atom:link href="https://OldSchoolFBCoach.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Build 21-12 Available - Timeouts, Touchbacks, &amp; More</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2112-timeouts/</link>
+      <pubDate>Wed, 01 Dec 2021 10:22:31 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2112-timeouts/</guid>
+      <description>A new update (21-12) of Old School Football Coach is here! The new changes include the following:
+New Features:  Timeouts have been implemented! It&amp;rsquo;s now possible to call a timeout during the game. Calling a timeout allows you to stop the game clock, reset the play clock, and select a new play before the ball is snapped. Timeouts can be called from the game menu. Computer controlled players are now smart enough to take a touchback when appropriate after receiving a kick, interception, or fumble.</description>
+    </item>
+    
+    <item>
+      <title>Build 21-10 Available - Option Plays, Playbooks, &amp; More</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2110-optionplays/</link>
+      <pubDate>Sun, 03 Oct 2021 10:15:14 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2110-optionplays/</guid>
+      <description>A new update (21-10) of Old School Football Coach is here! The new changes include the following:
+New Features:  Teams now have head coaches associated with them that modify different aspects of the team.  Coaches now have their own playbook, meaning teams no longer have the same plays available to them. You can likewise set up your own playbook in career mode. Coaches can set a desired offensive philosophy, such as &amp;ldquo;power run&amp;rdquo;, &amp;ldquo;quick pass&amp;rdquo;, and more.</description>
+    </item>
+    
+    <item>
+      <title>Build 2108 Available - Create a Player &amp; More</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2108-createaplayer/</link>
+      <pubDate>Sat, 07 Aug 2021 16:57:17 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2108-createaplayer/</guid>
+      <description>A new update (21-08) of Old School Football Coach is here! The new updates include the following:
+New Features:  It is now possible to create and edit players. This can be accessed by editing a team through the league management menu and clicking a button to edit the team&amp;rsquo;s roster. From there you can select new options to add/edit/delete players. It is now possible to set a team&amp;rsquo;s desired text font, similar to setting team colors.</description>
+    </item>
+    
+    <item>
+      <title>Build 21-07 Available - Player Injuries</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2107-playerinjuries/</link>
+      <pubDate>Thu, 15 Jul 2021 10:02:35 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2107-playerinjuries/</guid>
+      <description>A new update (21-07) of Old School Football Coach is now publicly available! In addition to various bug fixes it includes a new major features!
+Player Injuries Football players can now get injured during games. The chances of injury increase as the player&amp;rsquo;s fatigue worsens. An injury to a player in career mode might mean several weeks of healing, resulting in players missing games. Be sure to bench your best players when you find yourself in the middle of a blow-out to prevent costly injuries!</description>
+    </item>
+    
+    <item>
       <title>Build 21-06 Available</title>
       <link>https://OldSchoolFBCoach.github.io/blog/build-2106/</link>
       <pubDate>Mon, 31 May 2021 20:03:13 -0500</pubDate>
