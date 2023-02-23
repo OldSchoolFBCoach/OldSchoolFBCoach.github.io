@@ -6,7 +6,68 @@
     <description>Recent content in Announcement on Old School Football Coach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 10:22:31 -0600</lastBuildDate><atom:link href="https://OldSchoolFBCoach.github.io/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 21:08:15 -0600</lastBuildDate><atom:link href="https://OldSchoolFBCoach.github.io/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build 23-02 - Coaching Carousel</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2302-coachcarousel/</link>
+      <pubDate>Fri, 27 Jan 2023 21:08:15 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2302-coachcarousel/</guid>
+      <description>A new update (23-02) of Old School Football Coach is here! The new changes include the following:
+Coaching Carousel in Career Mode After the season ends you can now get offered coaching jobs at other schools depending on how your team has been performing. AI schools can now fire under-performing coaches between seasons and attempt to hire better replacements from less prestigious schools or from the pool of unemployed coaches. There is now an off-season period between seasons where you can fire your assistant coaches and hire new ones Assistant coaches can now develop and gain new abilities between seasons Other Improvements New career mode saves will begin in the year 2023.</description>
+    </item>
+    
+    <item>
+      <title>Build 22-11 - Import/Export Teams &amp; More!</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2211-importexport/</link>
+      <pubDate>Mon, 31 Oct 2022 21:06:09 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2211-importexport/</guid>
+      <description>A new update (22-11) of Old School Football Coach is here! The new changes include the following:
+Import / Export Teams This long requested feature is finally here! It is now possible to easily export your custom teams from the League Management screen! Likewise, you can now also easily import teams that have been created by others! Now you can share your favorite custom teams with friends and build up a league together.</description>
+    </item>
+    
+    <item>
+      <title>Build 22-08 - Free Demo and More</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2208-demo/</link>
+      <pubDate>Sun, 07 Aug 2022 21:02:57 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2208-demo/</guid>
+      <description>A new update (22-08) of Old School Football Coach is here! The new changes include the following:
+Free Demo! Old School Football Coach now has a free demo available for download. The demo limits career mode to just 2 weeks of play, but is otherwise fully featured! You can now try the game out before you buy.
+New Features Each team now has 3 coaches, a head coach and two assistant coaches.</description>
+    </item>
+    
+    <item>
+      <title>Build 22-05 - Career Mode News Headlines</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2205-newsheadlines/</link>
+      <pubDate>Wed, 11 May 2022 20:55:43 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2205-newsheadlines/</guid>
+      <description>A new update (22-05) of Old School Football Coach is here! The new changes include the following:
+Career Mode News Headlines It&amp;rsquo;s now easier than ever to stay up to date on what&amp;rsquo;s going on around your league. Each week new media headlines will be generated and displayed on the revamped career mode home screen. This will help you keep up with things like important games, major upsets, and who&amp;rsquo;s pulling in the top recruiting classes.</description>
+    </item>
+    
+    <item>
+      <title>Build 22-04 - Scholarships &amp; More</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2204-scholarships/</link>
+      <pubDate>Wed, 20 Apr 2022 20:50:49 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2204-scholarships/</guid>
+      <description>A new update (22-04) of Old School Football Coach is here! The new changes include the following:
+New Major Features: In career mode, if you want a recruit to join your school you now have to offer them a scholarship. Recruits will no longer automatically join the school with the most recruiting points at the end of the season. Instead, they will join the school with the most recruiting points that has also offered them a scholarship.</description>
+    </item>
+    
+    <item>
+      <title>Build 22-01 - Weather &amp; More</title>
+      <link>https://OldSchoolFBCoach.github.io/blog/build-2201-weather/</link>
+      <pubDate>Sun, 16 Jan 2022 20:38:23 -0600</pubDate>
+      
+      <guid>https://OldSchoolFBCoach.github.io/blog/build-2201-weather/</guid>
+      <description>A new update (22-01) of Old School Football Coach is here! The new changes include the following:
+New Major Features: Rain and snow weather effects have been added. These effects can be turned on or off when setting up an exhibition game, but in career mode the weather is random. Rain and snow slightly impact QB throwing accuracy and other player skills. In career mode there are now two new topics you can talk to recruits about when trying to sway them towards your school.</description>
+    </item>
+    
     <item>
       <title>Build 21-12 Available - Timeouts, Touchbacks, &amp; More</title>
       <link>https://OldSchoolFBCoach.github.io/blog/build-2112-timeouts/</link>
@@ -14,7 +75,7 @@
       
       <guid>https://OldSchoolFBCoach.github.io/blog/build-2112-timeouts/</guid>
       <description>A new update (21-12) of Old School Football Coach is here! The new changes include the following:
-New Features:  Timeouts have been implemented! It&amp;rsquo;s now possible to call a timeout during the game. Calling a timeout allows you to stop the game clock, reset the play clock, and select a new play before the ball is snapped. Timeouts can be called from the game menu. Computer controlled players are now smart enough to take a touchback when appropriate after receiving a kick, interception, or fumble.</description>
+New Features: Timeouts have been implemented! It&amp;rsquo;s now possible to call a timeout during the game. Calling a timeout allows you to stop the game clock, reset the play clock, and select a new play before the ball is snapped. Timeouts can be called from the game menu. Computer controlled players are now smart enough to take a touchback when appropriate after receiving a kick, interception, or fumble.</description>
     </item>
     
     <item>
@@ -24,7 +85,7 @@ New Features:  Timeouts have been implemented! It&amp;rsquo;s now possible to ca
       
       <guid>https://OldSchoolFBCoach.github.io/blog/build-2110-optionplays/</guid>
       <description>A new update (21-10) of Old School Football Coach is here! The new changes include the following:
-New Features:  Teams now have head coaches associated with them that modify different aspects of the team.  Coaches now have their own playbook, meaning teams no longer have the same plays available to them. You can likewise set up your own playbook in career mode. Coaches can set a desired offensive philosophy, such as &amp;ldquo;power run&amp;rdquo;, &amp;ldquo;quick pass&amp;rdquo;, and more.</description>
+New Features: Teams now have head coaches associated with them that modify different aspects of the team. Coaches now have their own playbook, meaning teams no longer have the same plays available to them. You can likewise set up your own playbook in career mode. Coaches can set a desired offensive philosophy, such as &amp;ldquo;power run&amp;rdquo;, &amp;ldquo;quick pass&amp;rdquo;, and more.</description>
     </item>
     
     <item>
@@ -34,7 +95,7 @@ New Features:  Teams now have head coaches associated with them that modify diff
       
       <guid>https://OldSchoolFBCoach.github.io/blog/build-2108-createaplayer/</guid>
       <description>A new update (21-08) of Old School Football Coach is here! The new updates include the following:
-New Features:  It is now possible to create and edit players. This can be accessed by editing a team through the league management menu and clicking a button to edit the team&amp;rsquo;s roster. From there you can select new options to add/edit/delete players. It is now possible to set a team&amp;rsquo;s desired text font, similar to setting team colors.</description>
+New Features: It is now possible to create and edit players. This can be accessed by editing a team through the league management menu and clicking a button to edit the team&amp;rsquo;s roster. From there you can select new options to add/edit/delete players. It is now possible to set a team&amp;rsquo;s desired text font, similar to setting team colors.</description>
     </item>
     
     <item>
@@ -64,7 +125,7 @@ Player Fatigue The football players on your team have always had a stamina attri
       
       <guid>https://OldSchoolFBCoach.github.io/blog/build-2105/</guid>
       <description>Development build (21-05) of Old School Football Coach is now publicly available! Notable changes include:
-New Features / Improvements  In career mode, recruits can now have a new interest: &amp;ldquo;Recent Success&amp;rdquo;. In other words, if recent success is important to a recruit, you can influence them more towards your team if you&amp;rsquo;ve been doing well lately. This interest is also different from the other ones because the recruit&amp;rsquo;s feelings can change on it week-to-week depending on how your team is doing.</description>
+New Features / Improvements In career mode, recruits can now have a new interest: &amp;ldquo;Recent Success&amp;rdquo;. In other words, if recent success is important to a recruit, you can influence them more towards your team if you&amp;rsquo;ve been doing well lately. This interest is also different from the other ones because the recruit&amp;rsquo;s feelings can change on it week-to-week depending on how your team is doing.</description>
     </item>
     
     <item>
@@ -84,7 +145,7 @@ Postseason Games There is now support for postseason games and they are highly c
       
       <guid>https://OldSchoolFBCoach.github.io/blog/oldschoolfbcoach-dev-build-202102-now-available/</guid>
       <description>Another new development build of Old School Football Coach is publicly available! Notable changes include:
-New Features  Conference championship games have been implemented in career mode. At the end of the regular season the top two teams in each conference will be matched up for a conference championship game. It is now possible to edit conferences in the League Management menu in addition to creating and deleting them. Penalties can now be declined.</description>
+New Features Conference championship games have been implemented in career mode. At the end of the regular season the top two teams in each conference will be matched up for a conference championship game. It is now possible to edit conferences in the League Management menu in addition to creating and deleting them. Penalties can now be declined.</description>
     </item>
     
     <item>

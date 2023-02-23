@@ -241,6 +241,10 @@ header h1 {
    color:#81500f
 }
 
+.BlogPost ul + p {
+   margin-top: 10px;
+}
+
 .BlogPost img{
    max-width: 100%;
    text-align: center;
